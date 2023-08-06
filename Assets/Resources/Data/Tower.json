@@ -1,0 +1,44 @@
+{
+	"Data": [
+		{
+			"Id": "10001",
+			"Name": "炮台",
+			"Attack": 2500,
+			"Hp": 1,
+			"Money": 10,
+			"Icon": "Icon/paotai",
+			"Model": "Model/cannon_upgrade_01",
+			"Type": "TowerTrap"
+		},
+		{
+			"Id": "10002",
+			"Name": "地刺",
+			"Attack": 25,
+			"Hp": 100,
+			"Money": 10,
+			"Icon": "Icon/dici",
+			"Model": "Model/SpikeTrapD",
+			"Type": "SpikeTrap"
+		},
+		{
+			"Id": "10003",
+			"Name": "断头台",
+			"Attack": 1250,
+			"Hp": 1300,
+			"Money": 10,
+			"Icon": "Icon/duantoutai",
+			"Model": "Model/SwingTrapD",
+			"Type": "SwingTrap"
+		},
+		{
+			"Id": "10004",
+			"Name": "陷阱门",
+			"Attack": 10250,
+			"Hp": 1100,
+			"Money": 10,
+			"Icon": "Icon/xianjingmen",
+			"Model": "Model/TrapDoor",
+			"Type": "DoorTrap"
+		}
+	]
+}
